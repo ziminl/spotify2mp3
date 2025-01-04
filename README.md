@@ -12,3 +12,4 @@ fixed "/" "?" things that makes file to dir
 
 #mobile
 
+use samsung music
