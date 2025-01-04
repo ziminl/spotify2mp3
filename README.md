@@ -9,6 +9,9 @@ fixed 100 limit
 
 fixed "/" "?" things that makes file to dir
 
+actually its very bad code that isnt splited to each functional sector.
+
+
 
 #mobile
 
